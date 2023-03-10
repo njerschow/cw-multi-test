@@ -235,7 +235,7 @@ dependencies = [
 
 [[package]]
 name = "cw-multi-test"
-version = "0.16.2-alpha.0"
+version = "0.16.3"
 dependencies = [
  "anyhow",
  "cosmwasm-std",
